@@ -41,6 +41,20 @@
       "image": "https://edteam-media.s3.amazonaws.com/courses/original/9e7655f4-a855-4d30-a3e0-736fa47f479b.png",
       "price": 80,
       "professor": "Maxito kellynton"
+    },
+    {
+      "id": 7,
+      "title": "Javascript desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/764a6440-4e10-4ac5-8cd5-bf9589f01ae6.jpg",
+      "price": 50,
+      "professor": "Kenny kellynton"
+    },
+    {
+      "id": 8,
+      "title": "Desarrollo web con Vuejs Graphl",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/fa54a0a1-9401-41c1-ae19-8bd80037499c.jpg",
+      "price": 200,
+      "professor": "Mario kellynton"
     }
   ]
 }

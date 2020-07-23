@@ -29,10 +29,17 @@
       "professor": "katherinne benaved"
     },
     {
+      "id": 5,
       "title": "Android desde cero",
-      "image": "https://edteam-media.s3.amazonaws.com/courses/original/408408b7-3a54-4d84-9879-5ac1122b4f36.png",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/c0b7f682-e9d2-4bfd-b77d-c56ece8279bb.jpg",
       "price": 60,
       "professor": "Emiliano benaved"
-    }
+    },
+    {
+      "id": 6,
+      "title": "Angular desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/courses/original/9e7655f4-a855-4d30-a3e0-736fa47f479b.png",
+      "price": 90,
+      "professor": "Maxito mastiorn"
   ]
 }
